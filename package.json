@@ -4,10 +4,13 @@
   "description": "test project",
   "main": "",
   "scripts": {
-    "test": "jest --color"
+    "test": "jest"
   },
   "author": "vanek",
   "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
