@@ -4,8 +4,14 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3f1a278454e3abfb974c/test_coverage)](https://codeclimate.com/github/youngandinnocent/jest-test/test_coverage)
 [![Build Status](https://travis-ci.org/youngandinnocent/jest-test.svg?branch=master)](https://travis-ci.org/youngandinnocent/jest-test)
 
-## Run
+## Setup
 
 ```sh
-$ npx jest
+$ make install
+```
+
+## Run tests
+
+```sh
+$ make test
 ```
