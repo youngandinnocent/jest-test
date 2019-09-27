@@ -4,7 +4,7 @@
   "description": "test project",
   "main": "",
   "scripts": {
-    "test": "jest"
+    "test": "jest --color"
   },
   "author": "vanek",
   "license": "ISC",
